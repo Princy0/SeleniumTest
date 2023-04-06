@@ -1,2 +1,2 @@
 # SeleniumTest
-Testing Website using Selenium
+Testing Web pages using Selenium
