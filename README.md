@@ -14,7 +14,7 @@ Before running the tests, ensure that the following prerequisites are met:
 
 To get started with running the tests, follow these steps:
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `git clone https://github.com/Princy0/SeleniumTest`
 2. Navigate to the project directory: `cd selenium-tests`
 3. Install the required dependencies: `npm install`
 4. Configure the browser driver path in the test configuration file.
