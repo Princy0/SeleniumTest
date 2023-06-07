@@ -65,6 +65,15 @@ Test results and any associated logs or screenshots are generated during the tes
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Follow the project's code of conduct and guidelines for contributing.
 
+## Support
+
+If you encounter any issues or have any questions, please contact the developer at Princepn029@gmail.com.
+
+## Contact
+- You can contact me for contributing more prjects : 
+- Email : Princepn029@gmail.com
+- Linkedin : https://www.linkedin.com/in/princeprajapati/
+
 ---
 
 Feel free to customize this README file based on your specific project requirements and conventions. Include any additional information or instructions that would be helpful for running and understanding the Selenium tests.
