@@ -70,7 +70,7 @@ Contributions to this project are welcome. If you find any issues or have sugges
 If you encounter any issues or have any questions, please contact the developer at Princepn029@gmail.com.
 
 ## Contact
-- You can contact me for contributing more prjects : 
+- You can contact me for contributing more prjects and learning : 
 - Email : Princepn029@gmail.com
 - Linkedin : https://www.linkedin.com/in/princeprajapati/
 - Portfolio : https://princy0.github.io/prince.github.io/
